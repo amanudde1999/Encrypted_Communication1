@@ -1,5 +1,5 @@
-# Encrypted_Communication1
-#Description: The first part of this assignment was to create a program that uses RSA encryption and decryption to have a secure communication between two arduinos. 
+# Encrypted_Communication1:
+Two Arduino's are communicating using pre-set values for keys and modulii and the RSA encryption/decryption protocol.
 
 # Included files:
 - encrypted_communication_part1.cpp
